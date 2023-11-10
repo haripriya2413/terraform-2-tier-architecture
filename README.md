@@ -3,7 +3,8 @@
 ✨This repository is created to learn and deploy  2-tier application on aws cloud through terraform. 
 
 ## 🏠 Architecture
-![Architecture of the application](architecture.gif)
+![image](https://github.com/haripriya2413/terraform-2-tier-architecture/assets/143806953/42b7df6d-9bec-4f22-8dba-08580b095248)
+
 
 ## 🖥️ Installation of Terraform
 
